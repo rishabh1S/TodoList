@@ -17,7 +17,7 @@ Run `ng build` to build the project. The build artifacts will be stored in the `
 To get started with this application, you will need to have Node.js and npm installed on your machine. You can download Node.js from [here](https://nodejs.org/en/download/) and npm will be installed automatically.
 
 1. Clone the repository to your local machine:
-`git clone https://github.com/<your_username>/todo-list-app.git`
+`git clone https://github.com/<your_username>/to-do-list.git`
 2. Navigate to the project directory:
 `cd to-do-list`
 3. Install dependencies:
